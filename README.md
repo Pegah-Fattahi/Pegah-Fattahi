@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub! 
 
-<!--
-**Pegah-Fattahi/Pegah-Fattahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm **Pegah Fattahi**, a Data and Business Analyst. 
 
-Here are some ideas to get you started:
+## 🎓 Education:
+- Holding a dual Master's degree in **International Management** and **Data Science, AI & Digital Business**.
+- Currently studying at [Turing College](https://www.turingcollege.com/) specializing in Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience:
+- Former Data and Business Analyst at **Koulak Company and Sanaye Daghigh**.
+
+## 🏆 Achievements:
+- Received two awards at a Hackathon in collaboration with **GISMA University of Applied Science**.
+
+## 🤝 Collaboration:
+- Always open to collaboration with data analyst teams and individuals passionate about data. Feel free to reach out!
+
